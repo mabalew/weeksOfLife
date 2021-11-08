@@ -1,0 +1,22 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#early_years {
+  background-color: yellow;
+}
+#elementary_school {
+  background-color: orange;
+}
+#middle_school {
+  background-color: green;
+}
+#high_school {
+  background-color: blue;
+}
+#career {
+  background-color: red;
+}
+#retirement {
+  background-color: grey;
+}
