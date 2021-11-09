@@ -73,7 +73,7 @@ for y in {1..88}; do
   for w in {1..52}; do
     ((WEEKS_COUNT++))
     if [ $WEEKS_COUNT -le $TODAY_WEEK_NO ]; then
-      CHECKED="checked"
+      CHECKED="checked disabled='true'"
     else
       CHECKED=""
     fi
